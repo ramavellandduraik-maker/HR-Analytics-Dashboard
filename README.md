@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing employee attrition trends across departments, roles, and demographics.
 
-![HR Analytics Dashboard](HR-Analytics-Dashboard/Hrdashboard.png)
+![HR Analytics Dashboard](assets/hr_dashboard.png)
 
 ---
 
